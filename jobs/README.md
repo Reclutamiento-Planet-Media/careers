@@ -8,7 +8,7 @@ Aquí encontrarás las posiciones que actualmente se encuentran abiertas.
 
 - 🚀 Desarrollador Java Semi Senior.
 - 💻 Desarrollador Vue.js Semi Senior
-- 🖥️ [Ingeniero de Soporte Jr.](support-engineer-jr.md)
+- 🖥️  [Ingeniero de Soporte Jr.](support-engineer-jr.md)
 
 ## ¿Cómo aplicar?
 
