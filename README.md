@@ -1,5 +1,5 @@
   [LOGO]
-# 👋 Bienvenido a Planet Media💻✨
+# 👋 Bienvenido a PlanetMedia💻✨
 En **Planet Media** creamos soluciones informáticas robustas y de alta calidad. Cubrimos todo el ciclo de vida del software: desde la implantación y el desarrollo, hasta el soporte y la administración avanzada.
 
 ### ¿Por qué nuestro equipo destaca?
